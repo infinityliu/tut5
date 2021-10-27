@@ -1,0 +1,46 @@
+h1 {
+    font-style: italic;
+    color: #977c00;
+    font-size: 40pt;
+    background-color: powderblue;
+    text-align: center;
+}
+
+h2 {
+    height: 80pt;
+    width: auto;
+    display: table-cell;
+    vertical-align: bottom;
+}
+
+#freeslots {
+    width: auto;
+    height: 300px;
+    font-size: 90pt;
+    background-color: RGB(218,196,255);
+    text-align: center;
+    vertical-align: middle;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: auto;
+    right: 0;
+    height: 30px;
+    background-color: bisque;
+}
+
+#buttongroup {
+    width: auto;
+    height: 35px;
+    text-align: center;
+    background-color: darkseagreen;
+}
+
+#list {
+    width: auto;
+    height: auto;
+    background-color:beige;
+    text-align: center;
+}
